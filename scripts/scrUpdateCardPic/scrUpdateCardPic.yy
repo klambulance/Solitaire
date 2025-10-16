@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrUpdateCardPic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrUpdateCardPic",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

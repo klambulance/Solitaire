@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrRemoveDealt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrRemoveDealt",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
