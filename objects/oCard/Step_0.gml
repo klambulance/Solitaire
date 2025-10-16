@@ -20,6 +20,7 @@ if(grabbed){
 				scrRemoveDealt(pileNum);
 				array_delete(oDeck.dealtCardArr,pileNum+1,1);
 				//pileNum=-1;
+				//but what if I change this?
 			}
 		}else{
 			if(collision_circle(mouse_x,mouse_y,40,oCardSpot,0,1) != noone){
